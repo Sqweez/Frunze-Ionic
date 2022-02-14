@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932328420041",
+    "project_id": "krmap-907ed",
+    "storage_bucket": "krmap-907ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932328420041:android:0b30a94a87be2093515318",
+        "android_client_info": {
+          "package_name": "ru.spbdio.frunze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932328420041-r2tcqvij9vsn76hck3ov5ue0hn3j4o7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk_LF_f3jJiR53pdrl4z3swm8-rp0lWYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932328420041-r2tcqvij9vsn76hck3ov5ue0hn3j4o7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

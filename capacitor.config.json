@@ -1,0 +1,22 @@
+{
+  "appId": "ru.spbdio.frunze",
+  "appName": "Frunze",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false,
+      "splashFullScreen": true,
+      "androidScaleType": "CENTER_CROP",
+      "splashImmersive": false,
+      "showSpinner": false,
+      "launchShowDuration": 15000,
+      "androidSpinnerStyle": "small",
+      "iosSpinnerStyle": "small",
+      "spinnerColor": "#DB8D38",
+      "backgroundColor": "#EDDFD4"
+    }
+  },
+  "cordova": {}
+}
